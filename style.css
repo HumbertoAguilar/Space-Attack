@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+button {
+  color:white ;
+  background:#34073E;
+  border-width: 5px;
+  border-Color:#EDEFF0;
+  position:relative;
+  left:10px;
+  padding: 5px;
+  font-weight: bold;
+  font-size: 2em;
+  font-family: 'Arial';
+  margin: 5px;
+  cursor: pointer;
+  outline: none;
+  border-radius: 90px;
+  width: 150px;
+  height: 70px;
+  
+}
